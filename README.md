@@ -1,2 +1,2 @@
 # site-modulo2
-Como surgiu a historia da logo do android
+Como surgiu a logo do android
